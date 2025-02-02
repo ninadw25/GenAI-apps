@@ -1,0 +1,10 @@
+ipykernel
+langchain
+groq
+python-dotenv
+langchain_community
+pypdf
+beautifulsoup4
+arxiv 
+pymupdf
+langchain-text-splitters
