@@ -30,3 +30,17 @@ unstructured
 pytube
 numexpr
 huggingface_hub
+langchain
+langgraph 
+cassio
+langchain_community
+tiktoken
+langchain-groq
+langchainhub
+chromadb
+langchain
+langgraph 
+langchain_huggingface
+arxiv
+wikipedia
+streamlit

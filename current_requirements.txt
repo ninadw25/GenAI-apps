@@ -1,0 +1,13 @@
+streamlit
+cassio
+langchain
+langchain-community
+langchain-huggingface
+langchain-groq
+langgraph
+pypdf
+tiktoken
+python-dotenv
+pydantic
+wikipedia
+typing-extensions
